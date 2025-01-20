@@ -3,7 +3,7 @@
 Clone the repository into the ferris subdirectory of QMK
 
 ```
-git clone git@github.com/ItsLeto/36-QMK-DASBOB <path-to-qmk>/keyboards/dasbob
+git clone git@github.com/LetoHG/36-QMK-DASBOB <path-to-qmk>/keyboards/dasbob
 ```
 
 After cloning it is ready to build
